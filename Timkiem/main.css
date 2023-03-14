@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.content{
+    padding: 10px 0;
+}
+
+.product-list{
+    display: flex;
+    justify-content: space-between;
+}
+.product-items{
+    width: 32%;
+    padding: 0 10px;
+    
+}
+.product-items img{
+    width: 250px;
+    margin: 10px 0;
+
+}
+.product-items h4 {
+    font-size:large;
+}
+
+.procuct-1 p {
+ text-align: right;
+ font-size: large;
+}
+
